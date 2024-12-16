@@ -1,0 +1,18 @@
+env: 'local'
+database:
+  user: 'postgres'
+  password: 'postgres'
+  port: '5432'
+  host: 'postgres'
+  db: 'testdb'
+jwt:
+  jwt_key: 'hsgshajjjhdakdhabc'
+  token_ttl: 24h
+  salt: 'megasalt'
+http_server:
+  address: '0.0.0.0:8088'
+  timeout: 4s
+  idle_timeout: 60s
+connections:
+  ml_connection: 'ml:8089'
+  parser_connection: 'http://parser:8000'

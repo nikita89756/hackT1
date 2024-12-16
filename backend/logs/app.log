@@ -1,0 +1,5 @@
+{"level":"INFO","timestamp":"2024-12-02T13:23:05.072+0300","caller":"hack/main.go:18","msg":"Starting server"}
+{"level":"INFO","timestamp":"2024-12-02T13:56:54.671+0300","caller":"hack/main.go:18","msg":"Starting server"}
+{"level":"INFO","timestamp":"2024-12-02T13:58:21.668+0300","caller":"logger/logger.go:58","msg":"HTTP Запрос","статус":500,"метод":"POST","путь":"/api/createModelFromFile","параметры":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.43.0","длительность":"6.513363ms"}
+{"level":"INFO","timestamp":"2024-12-02T14:04:48.282+0300","caller":"hack/main.go:18","msg":"Starting server"}
+{"level":"INFO","timestamp":"2024-12-02T14:04:52.891+0300","caller":"logger/logger.go:58","msg":"HTTP Запрос","статус":500,"метод":"POST","путь":"/api/createModelFromFile","параметры":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.43.0","длительность":"7.009497ms"}

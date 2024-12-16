@@ -1,0 +1,10 @@
+{"level":"info","time":"2024-12-03T22:31:03Z","caller":"%!r(string=Backend%!r(string=/home/nikita/projects/hackT1/backend/pkg/logger/logger.go)outers)outers:18","message":"Starting server"}
+{"level":"info","time":"2024-12-03T22:38:05Z","caller":"%!r(string=Backend%!r(string=/home/nikita/projects/hackT1/backend/pkg/logger/logger.go)outers)outers:18","message":"Starting server"}
+{"level":"info","time":"2024-12-03T22:41:47Z","caller":"%!r(string=Backend%!r(string=/home/nikita/projects/hackT1/backend/pkg/logger/logger.go)outers)outers:18","message":"Starting server"}
+{"level":"info","time":"2024-12-03T22:42:50Z","caller":"%!r(string=Backend%!r(string=/home/nikita/projects/hackT1/backend/pkg/logger/logger.go)outers)outers:18","message":"Starting server"}
+{"level":"info","time":"2024-12-03T23:01:09Z","caller":"%!r(string=Backend%!r(string=/home/nikita/projects/hackT1/backend/pkg/logger/logger.go)outers)outers:18","message":"Starting server"}
+{"level":"info","time":"2024-12-03T23:16:09Z","caller":"%!r(string=Backend%!r(string=/home/nikita/projects/hackT1/backend/pkg/logger/logger.go)outers)outers:18","message":"Starting server"}
+{"level":"info","time":"2024-12-03T23:24:05Z","caller":"%!r(string=Backend%!r(string=/home/nikita/projects/hackT1/backend/pkg/logger/logger.go)outers)outers:18","message":"Starting server"}
+{"level":"info","time":"2024-12-03T23:24:50Z","caller":"%!r(string=Backend%!r(string=/home/nikita/projects/hackT1/backend/pkg/logger/logger.go)outers)outers:18","message":"Starting server"}
+{"level":"info","time":"2024-12-03T23:25:12Z","caller":"%!r(string=Backend%!r(string=/home/nikita/projects/hackT1/backend/pkg/logger/logger.go)outers)outers:18","message":"Starting server"}
+{"level":"info","time":"2024-12-03T23:25:49Z","caller":"%!r(string=Backend%!r(string=/home/nikita/projects/hackT1/backend/pkg/logger/logger.go)outers)outers:18","message":"Starting server"}
